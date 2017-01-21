@@ -1,0 +1,37 @@
+{
+  "name": "Merito",
+  "productName": "Merito",
+  "identifier": "com.merito",
+  "description": "Merito",
+  "version": "1.0.0",
+  "author": "Merito",
+  "main": "main.js",
+  "config": {
+    "target": "release",
+    "versionCheckURL": "https://raw.githubusercontent.com/werwercat/Merito-Client/master/package.json"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/.bin/electron-rebuild -w @paulcbetts/system-idle-time -p"
+  },
+  "dependencies": {
+    "@paulcbetts/system-idle-time": "^1.0.4",
+    "adm-zip": "^0.4.7",
+    "app-root-path": "^2.0.1",
+    "auto-launch": "^1.1.1",
+    "electron-rebuild": "^1.2.1",
+    "electron-safe-ipc": "^0.6.1",
+    "fs-jetpack": "^0.7.1",
+    "mixpanel": "^0.3.2",
+    "node-schedule": "^1.2.0",
+    "nodemailer": "^2.6.4",
+    "open": "^0.0.5",
+    "ps-node": "^0.1.4",
+    "rcedit": "^0.7.0",
+    "request": "^2.76.0",
+    "rimraf": "^2.5.4",
+    "sudo-prompt": "^1.1.7",
+    "terminate": "^1.0.6",
+    "tree-kill": "^0.1.1",
+    "yargs": "^3.15.0"
+  }
+}
