@@ -3,7 +3,7 @@
   "productName": "Merito",
   "identifier": "com.merito",
   "description": "Merito",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Merito",
   "main": "main.js",
   "config": {
