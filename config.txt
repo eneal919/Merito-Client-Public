@@ -11,4 +11,4 @@ globalfan 85
 globalpowertune 2
 autoreboot true
 globaldriver amdgpu
-custompanel merito
+custompanel merito123456
