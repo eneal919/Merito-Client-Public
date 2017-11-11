@@ -1,0 +1,12 @@
+globalminer claymore
+maxgputemp 89
+stratumproxy enabled
+proxywallet 0x53b091931f7d9f0f2a0cc632a29ff9c46f992bb8
+proxypool1 eth-us-east1.nanopool.org:9999
+proxypool2 eth-us-west1.nanopool.org:9999
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 85
+globalpowertune 2
+autoreboot true
+globaldriver amdgpu
+custompanel merito123456
