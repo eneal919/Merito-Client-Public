@@ -1,0 +1,10 @@
+globalminer ewbf-zcash
+maxgputemp 89
+proxywallet t1Qh64FAMiWwYBAXti2NTRdb7VtjfRJ8fjG
+proxypool1 zec-us-east1.nanopool.org:6666
+proxypool2 zec-us-west1.nanopool.org:6666
+globalcore 1700
+globalmem 4150
+globalfan 85
+autoreboot true
+custompanel merito123456
