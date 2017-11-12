@@ -7,7 +7,7 @@ proxypool1 zec-us-east1.nanopool.org:6666
 #proxypool2 eu1.btgmine.org:3032
 #globalcore 1900
 #globalmem 4300
-globalpowertune 90
+globalpowertune 95
 globalfan 85
 autoreboot true
 custompanel merito123456
