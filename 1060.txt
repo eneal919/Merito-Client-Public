@@ -10,4 +10,8 @@ globalmem 4300
 globalfan 85
 autoreboot true
 custompanel merito123456
-reb f7488f 2
+reb f7488f 4
+
+cor f7488f 1900 1900 1500 1900 1900 1900 1900
+mem f7488f 4300 4300 4400 4300 4300 4300 4300
+
