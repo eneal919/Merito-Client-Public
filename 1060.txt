@@ -11,7 +11,7 @@ proxypool1 zec-us-east1.nanopool.org:6666
 globalfan 85
 autoreboot true
 custompanel merito123456
-reb f7488f 5
+reb f7488f 3
 
 cor f7488f 1900 1900 1300 1900 1900 1900 1900
 mem f7488f 4300 4300 5000 4300 4300 4300 4300
