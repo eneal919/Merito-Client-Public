@@ -1,14 +1,14 @@
-globalminer claymore
-#globalminer optiminer-zcash
+#globalminer claymore
+globalminer optiminer-zcash
 maxgputemp 89
-stratumproxy enabled
-proxywallet 0x53b091931f7d9f0f2a0cc632a29ff9c46f992bb8
-#proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm	
-proxypool1 eth-us-east1.nanopool.org:9999
-proxypool2 eth-us-west1.nanopool.org:9999
-#proxypool1 us1.btgmine.org:3032
+#stratumproxy enabled
+#proxywallet 0x53b091931f7d9f0f2a0cc632a29ff9c46f992bb8
+proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm	
+#proxypool1 eth-us-east1.nanopool.org:9999
+#proxypool2 eth-us-west1.nanopool.org:9999
+proxypool1 eu.pool.gold:3044
 #proxypool2 eu1.btgmine.org:3032
-flags --cl-global-work 8192 --farm-recheck 200
+#flags --cl-global-work 8192 --farm-recheck 200
 globalcore 1200
 globalmem 2085
 globalfan 85
@@ -17,13 +17,13 @@ autoreboot true
 globaldriver amdgpu
 custompanel merito123456
 
-reb c79953 3
-reb c798f3 3
-reb c7985a 3
-reb c78db2 3
-reb 490ec0 3
-reb 490eb5 3
-reb 490200 3
-reb 4900da 3
-reb c790c7 3
-reb 490d29 3
+reb c79953 4
+reb c798f3 4
+reb c7985a 4
+reb c78db2 4
+reb 490ec0 4
+reb 490eb5 4
+reb 490200 4
+reb 4900da 4
+reb c790c7 4
+reb 490d29 4
