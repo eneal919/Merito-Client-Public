@@ -1,19 +1,19 @@
 globalminer ewbf-zcash
 maxgputemp 89
-proxywallet t1Qh64FAMiWwYBAXti2NTRdb7VtjfRJ8fjG
-proxypool1 zec-us-east1.nanopool.org:6666
-#proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm
-#proxypool1 us1.btgmine.org:3032
-#proxypool2 eu1.btgmine.org:3032
+#proxywallet t1Qh64FAMiWwYBAXti2NTRdb7VtjfRJ8fjG
+#proxypool1 zec-us-east1.nanopool.org:6666
+proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm
+proxypool1 eu.pool.gold:3044
+#proxypool2 us.pool.gold:3044
 #globalcore 1900
 #globalmem 4300
 #globalpowertune 110
 globalfan 85
 autoreboot true
 custompanel merito123456
-reb f7488f 3
+reb f7488f 4
 
-cor f7488f 1900 1900 1300 1900 1900 1900 1900
-mem f7488f 4300 4300 5000 4300 4300 4300 4300
+#cor f7488f 1900 1900 1300 1900 1900 1900 1900
+#mem f7488f 4300 4300 5000 4300 4300 4300 4300
 #pwr f7488f 7 7 7 7 7 7 7
 
