@@ -6,7 +6,7 @@ maxgputemp 89
 proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm	
 #proxypool1 eth-us-east1.nanopool.org:9999
 #proxypool2 eth-us-west1.nanopool.org:9999
-proxypool1 us1.btgmine.org:3032
+proxypool1 eu.pool.gold:3044
 proxypool2 eu1.btgmine.org:3032
 #flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
@@ -17,4 +17,4 @@ autoreboot true
 globaldriver amdgpu
 custompanel merito123456
 
-reb 7eee4a 1
+reb 7eee4a 2
