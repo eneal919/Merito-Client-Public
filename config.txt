@@ -6,8 +6,8 @@ maxgputemp 89
 proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm	
 #proxypool1 eth-us-east1.nanopool.org:9999
 #proxypool2 eth-us-west1.nanopool.org:9999
-proxypool1 eu.pool.gold:3044
-#proxypool2 eu1.btgmine.org:3032
+proxypool1 us1.btgmine.org:3032
+proxypool2 eu1.btgmine.org:3032
 #flags --cl-global-work 8192 --farm-recheck 200
 globalcore 1200
 globalmem 2085
@@ -17,13 +17,13 @@ autoreboot true
 globaldriver amdgpu
 custompanel merito123456
 
-reb c79953 4
-reb c798f3 4
-reb c7985a 4
-reb c78db2 4
-reb 490ec0 4
-reb 490eb5 4
-reb 490200 4
-reb 4900da 4
-reb c790c7 4
-reb 490d29 4
+reb c79953 5
+reb c798f3 5
+reb c7985a 5
+reb c78db2 5
+reb 490ec0 5
+reb 490eb5 5
+reb 490200 5
+reb 4900da 5
+reb c790c7 5
+reb 490d29 5
