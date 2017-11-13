@@ -3,11 +3,11 @@ globalminer optiminer-zcash
 maxgputemp 89
 #stratumproxy enabled
 #proxywallet 0x53b091931f7d9f0f2a0cc632a29ff9c46f992bb8
-proxywallet GZycnV1iQHqaKdXfoV9GipjGmd7LYKy3vm	
+proxywallet t1PjjwQR3eGZY967YgbvrzaAv9RcNrwc8nv	
 #proxypool1 eth-us-east1.nanopool.org:9999
 #proxypool2 eth-us-west1.nanopool.org:9999
-proxypool1 us1.btgmine.org:3032
-proxypool2 eu1.btgmine.org:3032
+proxypool1 zec-us-east1.nanopool.org:6666
+proxypool2 zec-us-west1.nanopool.org:6666
 #flags --cl-global-work 8192 --farm-recheck 200
 globalcore 1200
 globalmem 2085
@@ -17,13 +17,13 @@ autoreboot true
 globaldriver amdgpu
 custompanel merito123456
 
-reb c79953 5
-reb c798f3 5
-reb c7985a 5
-reb c78db2 5
-reb 490ec0 5
-reb 490eb5 5
-reb 490200 5
-reb 4900da 5
-reb c790c7 5
-reb 490d29 5
+reb c79953 6
+reb c798f3 6
+reb c7985a 6
+reb c78db2 6
+reb 490ec0 6
+reb 490eb5 6
+reb 490200 6
+reb 4900da 6
+reb c790c7 6
+reb 490d29 6
