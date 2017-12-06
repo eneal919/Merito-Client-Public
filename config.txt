@@ -17,13 +17,13 @@ autoreboot true
 globaldriver amdgpu
 custompanel merito123456
 
-reb c79953 8
-reb c798f3 8
-reb c7985a 8
-reb c78db2 8
-reb 490ec0 8
-reb 490eb5 8
-reb 490200 8
-reb 4900da 8
-reb c790c7 8
-reb 490d29 8
+reb c79953 9
+reb c798f3 9
+reb c7985a 9
+reb c78db2 9
+reb 490ec0 9
+reb 490eb5 9
+reb 490200 9
+reb 4900da 9
+reb c790c7 9
+reb 490d29 9
