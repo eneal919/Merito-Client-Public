@@ -2,7 +2,7 @@ globalminer ewbf-zcash
 maxgputemp 89
 #proxywallet t1Qh64FAMiWwYBAXti2NTRdb7VtjfRJ8fjG
 #proxypool1 zec-us-east1.nanopool.org:6666
-proxywallet t1JAJkGsp9zw9N6kFvn71HBxTd5pG5SPLbe
+proxywallet t1Sg82MchfMUbr6Fv97MyAPPntsqLe5rifH 
 proxypool1 zec-us-east1.nanopool.org:6666
 proxypool2 zec-us-west1.nanopool.org:6666
 #globalcore 1900
