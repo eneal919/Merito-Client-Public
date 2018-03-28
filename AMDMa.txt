@@ -12,4 +12,4 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 autoreboot true
 globaldriver amdgpu
-custompanel merito123456
+custompanel merita123456
