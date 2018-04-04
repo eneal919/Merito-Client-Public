@@ -1,5 +1,5 @@
 globalminer ewbf-zcash
-maxgputemp 89
+maxgputemp 83
 #proxywallet t1Qh64FAMiWwYBAXti2NTRdb7VtjfRJ8fjG
 #proxypool1 zec-us-east1.nanopool.org:6666
 proxywallet t1JAJkGsp9zw9N6kFvn71HBxTd5pG5SPLbe
