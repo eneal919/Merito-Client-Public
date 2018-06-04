@@ -51,6 +51,7 @@ optiminer-zcash=proxypool1 us1-zcash.flypool.org:3333
 optiminer-zcash=flags --watchdog-timeout 60 --watchdog-cmd /opt/bitworks/bin/watchdog-cmd.sh
 
 globalfan 75
+custompanel merita
 maxgputemp 76
 stratumproxy miner
 globaldesktop disabled
