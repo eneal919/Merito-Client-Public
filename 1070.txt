@@ -20,7 +20,7 @@
 
 ## Section Ethereum
 
-globalminer ethminer
+globalminer claymore
 #globalminer optiminer-zcash
 maxgputemp 89
 #stratumproxy enabled
