@@ -9,9 +9,9 @@ proxypool2 eth-us-west1.nanopool.org:9999
 #proxypool1 zec-us-east1.nanopool.org:6666
 #proxypool2 zec-us-west1.nanopool.org:6666
 flags --cl-global-work 8192 --farm-recheck 200
-globalcore 850
-globalmem 1750
-globalfan 90
+globalcore 1250
+globalmem 2200
+globalfan 85
 globalpowertune 2
 autoreboot true
 globaldriver amdgpu
