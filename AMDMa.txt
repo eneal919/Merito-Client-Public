@@ -1,4 +1,4 @@
-globalminer ethminer
+globalminer claymore
 #globalminer optiminer-zcash
 maxgputemp 83
 #stratumproxy enabled
