@@ -9,7 +9,7 @@ proxypool2 eth-us-west1.nanopool.org:9999
 #proxypool1 zec-us-east1.nanopool.org:6666
 #proxypool2 zec-us-west1.nanopool.org:6666
 flags --cl-global-work 8192 --farm-recheck 200
-globalcore 1200
+globalcore 1150
 globalmem 2150
 globalfan 85
 globalpowertune 2
