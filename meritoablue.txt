@@ -23,7 +23,7 @@ autotune false
 
 ## ETH - Ethereum
 globalminer claymore
-proxywallet 0x9a33767c046531949d6655ac4223d2ed1640b91d
+proxywallet 0x7F900A7C8D0990025d2cCa1BCe6e2AFFe0ffF88A
 proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
 dualminer disabled
