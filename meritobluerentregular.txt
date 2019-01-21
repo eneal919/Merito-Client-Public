@@ -23,7 +23,7 @@ autotune false
 
 ## ETH - Ethereum
 globalminer claymore
-proxywallet 0x7F900A7C8D0990025d2cCa1BCe6e2AFFe0ffF88A
+proxywallet 0xd84ddec3bc73b39c7a16c7c584d89f0f496cd979
 proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
 dualminer disabled
@@ -57,58 +57,3 @@ stratumproxy miner
 globaldesktop disabled
 autoreboot 3
 
-reb	04c522	1
-reb	04cfdf	1
-reb	04cfa8	1
-reb	04cc98	1
-reb	04cf1e	1
-reb	04cc3a	1
-reb	04ce09	1
-reb	04cc6a	1
-reb	04cfb1	1
-reb	015ee5	1
-reb	04cfbf	1
-reb	04cfa2	1
-reb	04cc34	1
-reb	04d038	1
-reb	04ccd1	1
-reb	04cdd6	1
-reb	04ccfb	1
-reb	015cd5	1
-reb	04c3c9	1
-reb	04c19f	1
-reb	04d007	1
-reb	04ce01	1
-reb	0160c7	1
-reb	04c506	1
-reb	04c7c0	1
-reb	04cde2	1
-reb	04cc45	1
-reb	04c7b8	1
-reb	04c2e7	1
-reb	04c2dd	1
-reb	04ce80	1
-reb	04c460	1
-reb	04cf63	1
-reb	04cf79	1
-reb	04cca0	1
-reb	04ce02	1
-reb	04cf89	1
-reb	0155c5	1
-reb	04cef2	1
-reb	04cce9	1
-reb	04cef6	1
-reb	04ce04	1
-reb	04cc9c	1
-reb	04c7d2	1
-reb	04cd51 1
-reb	16064	1 
-reb	04cd26	1
-reb	04c39b	1
-reb	04cc46	1
-reb	04cfa6	1
-reb	04c7c9	1
-reb	04c2ef	1
-reb	04cd90	1
-reb	04cced	1
-reb	04cf07	1
