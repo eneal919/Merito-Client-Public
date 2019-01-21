@@ -56,4 +56,5 @@ maxgputemp 76
 stratumproxy miner
 globaldesktop disabled
 autoreboot 3
+poolemail help@getmerito.co
 
