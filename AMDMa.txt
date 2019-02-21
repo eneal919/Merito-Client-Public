@@ -1,6 +1,6 @@
 globalminer claymore
 #globalminer optiminer-zcash
-maxgputemp 83
+maxgputemp 84
 #stratumproxy disabled
 proxywallet 0x7F900A7C8D0990025d2cCa1BCe6e2AFFe0ffF88A
 #proxywallet t1PjjwQR3eGZY967YgbvrzaAv9RcNrwc8nv	
@@ -9,10 +9,10 @@ proxypool2 eth-us-west1.nanopool.org:9999
 #proxypool1 zec-us-east1.nanopool.org:6666
 #proxypool2 zec-us-west1.nanopool.org:6666
 flags --cl-global-work 8192 --farm-recheck 200
-globalcore 1050 
-globalmem 2100
+globalcore 1100 
+globalmem 2200
 globalfan 85
-globalpowertune 2
+globalpowertune -20
 autoreboot true
 globaldriver amdgpu
 custompanel merita123456
