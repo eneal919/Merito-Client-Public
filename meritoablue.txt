@@ -55,6 +55,6 @@ optiminer-zcash=flags --watchdog-timeout 60 --watchdog-cmd /opt/bitworks/bin/wat
 globalfan 85
 custompanel merita
 maxgputemp 79
-stratumproxy enabled
+stratumproxy nicehash
 globaldesktop disabled
 autoreboot 3
