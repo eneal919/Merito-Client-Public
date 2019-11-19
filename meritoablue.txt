@@ -23,7 +23,7 @@ autotune false
 
 ## ETH - Ethereum
 globalminer claymore
-proxywallet 3KWAUgXHZrfQX9EgYDbQSHNUhDjkfeeA55
+proxywallet 31q7sJAQCD2W5rxHj2UQ2rUUANExsEp2wR
 proxypool1 daggerhashimoto.usa.nicehash.com:3353
 proxypool2 daggerhashimoto.eu.nicehash.com:3353
 poolpass1 x
