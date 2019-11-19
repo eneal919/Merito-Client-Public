@@ -33,6 +33,7 @@ dualminer-coin dcr
 dualminer-pool dcr.suprnova.cc:3252
 dualminer-wallet padrino.1
 dualminer-password x
+flags --cl-global-work 16384 --farm-recheck 200  -r 1 -nofee 1 -eres 0
 
 # Monero (XMR) sgminer-gm-xmr
 #globalminer sgminer-gm-xmr
