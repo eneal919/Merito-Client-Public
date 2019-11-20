@@ -24,7 +24,7 @@
     "mixpanel": "^0.3.2",
     "node-schedule": "^1.2.0",
     "nodemailer": "^2.6.4",
-    "open": "^0.0.5",
+    "open": "^7.0.0",
     "ps-node": "^0.1.4",
     "rcedit": "^0.7.0",
     "request": "^2.76.0",
